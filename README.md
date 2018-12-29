@@ -1,4 +1,5 @@
 # hello-world
-learning git and GitHub
 
-My name is Jimbob
+Hello, My name is James.
+
+I'm learning git and GitHub.
