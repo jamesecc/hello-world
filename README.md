@@ -7,5 +7,5 @@ I'm learning git and GitHub.
 
 Roses are Red.
 Violets are Blue.
-Onions stink,
-and so do you.
+Sunflowers are yellow,
+and woodwork too.
