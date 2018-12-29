@@ -1,2 +1,4 @@
 # hello-world
-learning gt and GitHub
+learning git and GitHub
+
+My name is Jimbob
